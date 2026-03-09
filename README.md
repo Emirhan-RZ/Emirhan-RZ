@@ -25,6 +25,7 @@ Hem tasarım hem de kodlama dünyasında üretim yapan bir Geliştiriciyim.
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/blander-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
