@@ -48,6 +48,4 @@ Hem tasarım hem de kodlama dünyasında üretim yapan, çok yönlü bir Gelişt
 
 ### 📊 GitHub İstatistiklerim
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Emirhan-RZ&show_icons=true&theme=dark&locale=tr" alt="Emirhan-RZ" />
-</p>
+[![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=Emirhan-RZ&show_icons=true&theme=dark&locale=tr)](https://github.com/Emirhan-RZ)
